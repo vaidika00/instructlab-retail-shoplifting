@@ -1,0 +1,89 @@
+version: 1
+created_by: vaidika00
+seed_examples:
+  - question: >
+      Explain what retail shrink is and show how to calculate shrink
+      as a percentage of sales using a simple numeric example.
+    answer: >
+      Retail shrink is the gap between the inventory a retailer should have
+      (based on purchases and recorded sales) and what is actually on hand.
+      It is usually expressed as a percentage of net sales to show how much
+      revenue is effectively being lost. To calculate shrink as a percentage
+      of sales, you divide the value of the missing inventory by total net
+      sales over the same period and multiply by 100. For example, if a
+      retailer has annual net sales of 10 million and discovers 150,000 of
+      inventory loss at year end, the shrink percentage is (150,000 ÷
+      10,000,000) × 100, which equals 1.5%. This means 1.5% of that year’s
+      revenue effectively disappeared through theft, damage, errors,
+      or other causes.
+
+  - question: >
+      A supermarket has yearly net sales of 40 million and reports 1.8%
+      shrink. Estimate the value of shrink and explain how this affects
+      profitability in business terms.
+    answer: >
+      To estimate the value of shrink, multiply net sales by the shrink
+      percentage. With 40 million in net sales and 1.8% shrink, the loss is
+      40,000,000 × 0.018, which equals 720,000. This means the supermarket
+      effectively lost 720,000 in merchandise that could have been sold or
+      converted into profit. Because shrink hits cost of goods directly, it
+      reduces gross margin and leaves less money to cover operating expenses
+      such as labor, rent, and technology. Even if sales appear strong,
+      a 1.8% shrink rate can erase much of the profit improvement from
+      marketing campaigns or price increases, and it can force management
+      to cut costs elsewhere or raise prices to maintain target margins.
+
+  - question: >
+      Compare the financial impact of 1% vs 3% shrink for a chain
+      electronics retailer with 500 million in annual sales. Explain
+      why even a few percentage points matter so much.
+    answer: >
+      With 500 million in annual sales, a 1% shrink rate corresponds to
+      5 million in lost inventory value, while a 3% shrink rate corresponds
+      to 15 million. The difference between 1% and 3% is therefore 10 million
+      of additional loss. Most retailers operate on relatively thin net
+      profit margins, so losing 10 million in inventory can easily wipe out
+      a large share of net income. For example, if the chain normally earns
+      a 4% net margin, that would be 20 million in profit. An increase in
+      shrink from 1% to 3% would cut that profit roughly in half if all
+      else remained equal. This is why management treats even small shifts
+      in shrink percentage as strategically important and ties targets for
+      shrink reduction to bonus plans and capital allocation decisions.
+
+  - question: >
+      A discount retailer with a 28% gross margin is running at 2% shrink
+      on 200 million in sales. Explain, step by step, how shrink changes
+      the effective gross margin and what this means for the business.
+    answer: >
+      Start by computing the dollar value of shrink: 200 million in sales
+      times 2% shrink equals 4 million in lost inventory. If the reported
+      gross margin is 28%, gross profit before accounting for shrink would
+      be 200 million × 0.28, which equals 56 million. When shrink is
+      incorporated, the retailer effectively loses an additional 4 million
+      of product cost that does not generate revenue. If we subtract the
+      shrink from gross profit, the effective gross profit drops to
+      52 million, which corresponds to an adjusted gross margin of
+      52 million ÷ 200 million, or 26%. In practice, this means the retailer
+      has 2 percentage points less gross margin to fund labor, rent,
+      marketing, and technology, which can force cost cuts or limit growth
+      investments if shrink is not brought under control.
+
+  - question: >
+      A regional apparel chain has held shrink at 1.2% for several years,
+      but this year it rises to 1.9% on 120 million in sales. Quantify the
+      incremental loss and describe how a store manager should explain this
+      change to a CFO.
+    answer: >
+      First, calculate last year’s shrink value at 1.2%: 120 million × 0.012
+      equals 1.44 million. Then calculate this year’s shrink value at 1.9%:
+      120 million × 0.019 equals 2.28 million. The incremental loss is
+      2.28 million minus 1.44 million, which equals 0.84 million. When
+      explaining this to a CFO, a store or regional manager should frame
+      it as a nearly one‑million increase in unproductive cost that directly
+      reduces gross profit. They should provide hypotheses about drivers,
+      such as higher external theft in specific locations, process issues
+      at receiving, or staffing gaps at fitting rooms, supported by internal
+      indicators. They should also outline a concrete plan with expected
+      impact, such as targeted audits, changes to high‑risk displays,
+      or focused training in problem stores, and quantify how these actions
+      could bring shrink back toward 1.2% over the next planning cycle.
