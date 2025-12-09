@@ -1,0 +1,26 @@
+Knowledge leaf: Retail shrink as % of revenue
+Taxonomy path: retail_shoplifting/economic_impact/shrink_as_percent_of_revenue
+
+Primary author:
+- vaidika
+
+Description:
+This knowledge leaf provides conceptual and quantitative explanations of
+retail shrink, with a focus on how to calculate shrink as a percentage of
+revenue and how different shrink levels affect gross margin and profit.
+All examples and narratives are original work created for the purpose of
+fine-tuning an industry-focused language model.
+
+Upstream references (background reading, paraphrased; no verbatim text used):
+- Public educational and industry materials explaining retail shrink,
+  shrink calculation formulas, and typical shrink ranges.
+- Openly available articles and whitepapers on causes of shrink
+  (external theft, internal theft, process errors) and their business impact.
+- General finance and accounting references on gross margin and net margin.
+
+Licensing:
+- This knowledge contribution is provided under a permissive license
+  ( Creative Commons Attribution 4.0 International),
+  allowing reuse, modification, and distribution with proper attribution.
+- All external materials were used only as background; no copyrighted
+  text, tables, or figures were copied or closely reproduced.
