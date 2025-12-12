@@ -1,0 +1,109 @@
+version: 1
+
+Shoplifting & Shrinkage Trends --> Retail shrinkage rates
+
+created_by: vaidika00
+
+seed_examples:
+  - question: >
+      What is a retail shrinkage rate and how is it calculated from
+      inventory and sales data?
+    answer: >
+      A retail shrinkage rate expresses inventory loss as a percentage
+      of sales. To calculate it, you first estimate the value of
+      shrink over a given period, typically using physical inventory
+      counts and book inventory records to find the gap. You then
+      divide that shrink value by net sales for the same period and
+      multiply by one hundred. For example, if a retailer has
+      120,000 in shrink and 8,000,000 in net sales, the shrinkage
+      rate is (120,000 ÷ 8,000,000) × 100, or 1.5%. Using a percentage
+      allows comparisons across stores, formats, and time periods,
+      even when sales volumes differ.
+
+  - question: >
+      A fashion retailer reports net sales of 250 million and shrink
+      of 3.75 million in a year. Calculate the shrinkage rate and
+      briefly explain whether this should concern management.
+    answer: >
+      The shrinkage rate is calculated as shrink divided by net sales,
+      multiplied by one hundred. In this case, 3.75 million ÷
+      250 million is 0.015, which corresponds to 1.5%. Whether this
+      level should concern management depends on the retailer’s
+      targets and peer benchmarks. If similar fashion retailers
+      typically operate around 1.0% shrink, then 1.5% suggests an
+      opportunity to recover significant profit by tightening
+      controls. Even a half-point reduction in shrink on 250 million
+      in sales would free up more than a million in value each year.
+
+  - question: >
+      Compare how a 1% shrinkage rate and a 2% shrinkage rate affect
+      a supermarket with 600 million in annual sales. Include the
+      absolute shrink value for each rate and the difference between
+      them.
+    answer: >
+      At 600 million in annual sales, a 1% shrinkage rate corresponds
+      to 6 million in inventory loss. A 2% shrinkage rate corresponds
+      to 12 million in loss. The difference between the two is
+      6 million, which is effectively 1% of total sales. For a
+      supermarket that may operate on low net profit margins, this
+      additional 6 million can represent the difference between
+      meeting earnings targets and falling short. That is why
+      seemingly small changes in shrinkage rates are treated as
+      strategically important.
+
+  - question: >
+      A retailer has three store formats: small convenience stores,
+      mid-sized supermarkets, and large hypermarkets. What differences
+      in shrinkage rates might you expect across these formats and
+      why?
+    answer: >
+      Convenience stores often have higher shrinkage rates because
+      they stock many small, high-turn items that are easy to conceal,
+      and they may have fewer staff on duty at any time. Supermarkets
+      typically have more staff and more structured processes, which
+      can help control shrink, but they still face risk in categories
+      like fresh food and branded consumables. Hypermarkets combine
+      grocery with general merchandise; they can see different shrink
+      patterns by department, with higher rates in areas such as
+      apparel, electronics accessories, and health and beauty. As a
+      result, average shrinkage rates may be lowest in formats with
+      stronger process discipline and higher staff visibility, and
+      highest where small, portable goods and limited supervision
+      coincide.
+
+  - question: >
+      A chain reports that its overall shrinkage rate has stayed flat
+      at 1.4% for three years, but the rate in electronics
+      departments rose from 0.8% to 1.5% in the same period. How
+      should loss-prevention interpret this situation?
+    answer: >
+      The flat overall shrinkage rate suggests that, at the company
+      level, total loss relative to sales has not changed much. However,
+      the electronics departments show a significant increase from 0.8%
+      to 1.5%, nearly doubling the rate in that category. This means
+      that while some areas may have improved or stayed stable, losses
+      are becoming more concentrated in electronics. Loss-prevention
+      should treat this as a warning signal that electronics is now a
+      higher-risk area and investigate drivers such as product mix
+      changes, display and packaging choices, increased resale demand,
+      or gaps in controls like tagging and camera coverage. Resources
+      and countermeasures may need to be shifted specifically toward
+      that category.
+
+  - question: >
+      Why should analysts avoid comparing shrinkage rates between
+      retailers without considering differences in product mix,
+      store formats, and measurement methods?
+    answer: >
+      Shrinkage rates are influenced by what a retailer sells, how its
+      stores are designed and staffed, and how shrink is measured and
+      reported. A retailer focused on high-value electronics or
+      branded health and beauty products faces different risks from a
+      discounter with mainly low-value staples. Store formats with
+      lots of self-service and self-checkout differ from formats with
+      more staff interaction. Measurement practices also vary; some
+      companies categorize more loss as shrink, while others classify
+      similar issues as markdowns or process variance. Without
+      adjusting for these factors, comparing headline shrinkage rates
+      between retailers can lead to misleading conclusions about who
+      is actually performing better at controlling loss.
