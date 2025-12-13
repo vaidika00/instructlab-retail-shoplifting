@@ -1,0 +1,44 @@
+Knowledge leaf: Digital transformation & omnichannel effects
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/digital_transformations
+
+Primary author:
+- vaidika00, 2025
+
+Purpose:
+This knowledge leaf describes how digital transformation and
+omnichannel models—such as e-commerce, buy-online-pickup-in-store
+(BOPIS), self-checkout, and same-day delivery—change where and how
+shrink and shoplifting risks arise in retail. It provides synthetic
+scenarios that illustrate new loss points and operational controls for
+these digital and hybrid journeys.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The flows, examples, and
+figures are illustrative and synthetic; they do not represent any actual
+company’s internal data, systems, or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry articles and reports on e-commerce,
+  omnichannel fulfillment, self-checkout, and their impact on shrink.
+- Practitioner and research materials discussing operational risks in
+  BOPIS, home delivery, returns, and reverse logistics.
+- Educational explainers on digital transformation in retail and how
+  it affects inventory accuracy, fraud patterns, and loss-prevention
+  strategies.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+- vaidika00
