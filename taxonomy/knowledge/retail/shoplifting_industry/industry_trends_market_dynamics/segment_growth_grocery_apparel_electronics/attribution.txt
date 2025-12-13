@@ -1,0 +1,43 @@
+Knowledge leaf: Segment growth (grocery, apparel, electronics, etc.)
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/segment_growth_grocery_apparel_electronics
+
+Primary author:
+vaidika00, 2025
+
+Purpose:
+This knowledge leaf examines how growth in different retail segments
+such as grocery, apparel, and electronics changes a retailer’s exposure
+to shrink and shoplifting. It provides synthetic scenarios that show how
+shifts in portfolio mix and segment performance alter loss patterns and
+influence where loss-prevention resources should be focused.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The examples, store mixes,
+and figures are illustrative and synthetic; they do not represent any
+actual company’s internal data or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry reports and articles on segment-level
+  growth trends in grocery, apparel, electronics, and other retail
+  categories.
+- Research and practitioner materials describing typical shrink
+  characteristics and risk profiles by segment.
+- Educational explainers on portfolio mix, category management, and the
+  relationship between assortment, demand, and loss risk.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+vaidika00
