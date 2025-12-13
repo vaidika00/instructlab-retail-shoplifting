@@ -1,0 +1,103 @@
+version: 1
+created_by: vaidika00
+Shoplifting & Shrinkage Trends --> Seasonal and temporal patterns
+seed_examples:
+  - question: >
+      What is meant by seasonal and temporal patterns in retail
+      shoplifting and shrink, and why do loss-prevention teams track
+      these patterns?
+    answer: >
+      Seasonal and temporal patterns describe how shoplifting and
+      shrink vary across the calendar and across different times of
+      day or week. For example, many retailers see higher losses
+      around major holidays, paydays, and peak shopping seasons, as
+      well as during busy hours and late evenings. Loss-prevention
+      teams track these patterns so they can align staffing, floor
+      coverage, and controls with periods of highest risk instead of
+      treating all times as equal. Understanding when losses spike
+      helps them schedule audits, adjust product protection, and
+      coordinate with local law enforcement more effectively.
+
+  - question: >
+      A chain observes that shrink in its general merchandise stores
+      tends to spike in the last quarter of the year. Give two
+      plausible reasons for this seasonal pattern.
+    answer: >
+      One reason is that the final quarter includes major holidays and
+      promotional events that drive high traffic and crowded stores,
+      making it easier for both opportunistic thieves and organized
+      groups to conceal activity. Another reason is that stores often
+      run aggressive promotions and change displays frequently, which
+      can create clutter and reduce staff visibility, increasing the
+      chance that items are not properly secured or counted. In
+      addition, temporary seasonal staff may be less experienced with
+      procedures, which can contribute to both theft opportunities and
+      process errors that show up as shrink.
+
+  - question: >
+      Describe how time-of-day and day-of-week patterns can influence
+      shoplifting risk in a typical urban store.
+    answer: >
+      In a typical urban store, risk is often higher during busy
+      periods when staff are occupied with serving customers and lines
+      are long, such as late afternoons, early evenings, and weekends.
+      During these times, it is harder to maintain consistent
+      surveillance of high-risk areas, and shoplifters may exploit the
+      distraction. Late evening hours can also see increased risk if
+      fewer staff are on duty and there is less natural surveillance
+      from other shoppers. Conversely, very quiet times might attract
+      individuals who prefer to steal when the store is nearly empty.
+      By analyzing time-of-day and day-of-week patterns, managers can
+      adjust staffing, patrols, and camera focus to match risk.
+
+  - question: >
+      A retailer notices that losses in certain categories, such as
+      over-the-counter medicines and health and beauty products, rise
+      sharply in the weeks before major holidays. How should this
+      insight influence operational decisions?
+    answer: >
+      This pattern suggests that these categories face higher demand
+      and higher theft risk leading up to holidays, possibly due to
+      increased legitimate purchases and greater resale potential.
+      Operationally, the retailer can move high-risk items to more
+      visible locations, increase shelf checks, and use additional
+      product protection such as EAS tags or locked displays on the
+      most targeted lines. Temporary staffing plans should ensure that
+      employees are present in these aisles during known peak times.
+      The retailer can also brief store teams in advance about the
+      pattern so they know which products and periods require extra
+      attention.
+
+  - question: >
+      How can a loss-prevention analyst use data to distinguish between
+      genuine seasonal trends in shrink and one-off spikes caused by
+      exceptional events?
+    answer: >
+      A loss-prevention analyst can examine shrink data over multiple
+      years to see whether peaks recur at similar times, such as the
+      same weeks before holidays or during specific seasonal sales.
+      Genuine seasonal trends will show relatively consistent timing
+      and shape, even if the exact magnitude varies. One-off spikes,
+      by contrast, may coincide with exceptional events such as a
+      major local incident, a system failure, or a sudden change in
+      store layout. The analyst can also compare patterns across
+      regions and formats; widespread, repeated peaks point to true
+      seasonality, while isolated anomalies suggest local or
+      operational causes that need targeted investigation.
+
+  - question: >
+      A supermarket group wants to reduce shrink during peak weekend
+      hours without significantly increasing labor costs. Suggest two
+      measures based on temporal pattern analysis.
+    answer: >
+      One measure is to reallocate existing labor rather than adding
+      more hours: for example, scheduling more staff on the sales
+      floor and at self-checkout during peak weekend windows and fewer
+      staff on tasks like stocking or back-room work at those times.
+      Another measure is to adjust processes and technology, such as
+      focusing camera views and real-time analytics on high-risk
+      zones during peak periods and using prompts or alerts to remind
+      staff to perform quick checks on vulnerable areas. By aligning
+      existing resources and tools with the times when losses are most
+      likely, the supermarket can reduce shrink without a large
+      increase in total labor spend.
