@@ -1,0 +1,44 @@
+Knowledge leaf: Breakdown of shrink (external theft, employee theft, process/admin errors)
+Taxonomy path: retail/shoplifting_industry/economic_financial_impact/shrink_breakdown_components
+
+Primary author:
+- vaidika00, 2025
+
+Purpose:
+This knowledge leaf explains how total retail shrink can be decomposed
+into external theft, employee theft, and process or administrative
+errors. It provides synthetic numerical examples and scenarios to show
+how different loss components contribute to overall shrink and how this
+breakdown guides loss-prevention priorities and investment decisions.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The loss figures, store
+profiles, and examples are illustrative and synthetic; they do not
+represent any actual company’s internal data or confidential
+information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry articles and reports that describe common
+  sources of retail shrink and typical shares of external theft,
+  internal theft, and process or administrative errors.
+- Practitioner and research materials on loss-prevention strategies
+  targeted at different shrink components.
+- Educational explainers on internal controls, store processes, and
+  inventory accuracy in retail operations.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+- vaidika00
