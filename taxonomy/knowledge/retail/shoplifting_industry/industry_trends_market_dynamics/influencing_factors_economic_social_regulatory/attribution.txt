@@ -1,0 +1,46 @@
+Knowledge leaf: Influencing factors (economic, social, regulatory)
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/influencing_factors_economic_social_regulatory
+
+Primary author:
+vaidika00, 2025
+
+Purpose:
+This knowledge leaf explains how economic conditions, social dynamics,
+and regulatory or enforcement approaches influence retail shoplifting
+and shrink trends. It provides synthetic examples that show how factors
+such as inflation, unemployment, online resale channels, and changes in
+policing or legal thresholds can shape both actual theft activity and
+recorded statistics.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The scenarios, numbers, and
+comparisons are illustrative and synthetic; they do not represent any
+actual company’s internal data, legal positions or confidential
+information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry reports and articles on macroeconomic and
+  social drivers of retail theft and organized retail crime.
+- Research and policy papers discussing crime trends, enforcement
+  priorities, reporting practices, and legal frameworks affecting
+  shoplifting data.
+- Educational explainers on shrink causes, online resale markets, and
+  the interaction between economic stress, social behavior, and retail
+  loss.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+vaidika00
