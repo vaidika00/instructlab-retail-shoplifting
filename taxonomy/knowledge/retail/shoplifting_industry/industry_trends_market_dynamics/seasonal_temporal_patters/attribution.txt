@@ -1,0 +1,43 @@
+Knowledge leaf: Seasonal and temporal patterns
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/seasonal_temporal_patterns
+
+Primary author:
+vaidika00, 2025
+
+Purpose:
+This knowledge leaf describes how retail shoplifting and shrink vary by
+season, time of year, day of week, and time of day. It provides
+synthetic scenarios that show how peaks around holidays, weekends, and
+busy trading hours affect loss risk and how retailers can respond with
+staffing, layout, and control adjustments.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The examples, calendars,
+and figures are illustrative and synthetic; they do not represent any
+actual company’s internal data or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry articles and reports discussing seasonal
+  spikes in shrink and shoplifting (for example around holidays or
+  promotional periods).
+- Practitioner and research material on time-of-day and day-of-week
+  patterns in retail crime and store incidents.
+- Educational explainers on using historical incident and shrink data
+  to identify temporal trends and plan staffing and controls.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+vaidika00
