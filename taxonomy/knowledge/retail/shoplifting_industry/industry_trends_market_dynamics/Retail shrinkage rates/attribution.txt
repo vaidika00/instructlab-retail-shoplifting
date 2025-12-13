@@ -1,0 +1,42 @@
+Knowledge leaf: Retail shrinkage rates
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/retail_shrinkage_rates
+
+Primary author:
+vaidika00, 2025
+
+Purpose:
+This knowledge leaf explains how retail shrinkage rates are defined,
+calculated, and interpreted over time and across formats. It provides
+synthetic numeric examples and scenarios to illustrate how different
+shrink percentages affect loss levels and category- or format-specific
+risk.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The examples, store types,
+and figures are illustrative and synthetic; they do not represent any
+actual company’s internal data or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry articles and reports that describe retail
+  shrink, typical shrinkage ranges, and major drivers of loss.
+- Educational explainers on how to calculate shrink as a percentage of
+  sales and how to interpret differences between segments and formats.
+- General research and practitioner material on the causes and impact of
+  shrink in grocery, apparel, electronics, and other retail sectors.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+vaidika00
