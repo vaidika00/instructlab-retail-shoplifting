@@ -1,0 +1,45 @@
+Knowledge leaf: Shrink as % of revenue and profitability impact
+Taxonomy path: retail/shoplifting_industry/economic_financial_impact/shrink_percent_revenue_profitability
+
+Primary author:
+- vaidika00, 2025
+
+Purpose:
+This knowledge leaf explains how to calculate retail shrink as a
+percentage of revenue and how different shrink levels affect gross
+margin and net profitability. It provides synthetic numerical examples
+and business scenarios to show the impact of shrink on income
+statements and on management decisions about cost control and
+investment.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The figures, store
+profiles, and financial scenarios are illustrative and synthetic; they
+do not represent any actual company’s internal data or confidential
+information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry articles and reports on retail shrink,
+  typical shrink percentages, and their impact on profit and loss.
+- Educational explainers on calculating shrink, gross margin, and net
+  margin and on interpreting margin movements in retail.
+- General finance and risk management material discussing how loss
+  drivers translate into economic pressure on margins.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by iddea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+- vaidika00
+
