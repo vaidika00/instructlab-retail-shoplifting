@@ -1,0 +1,43 @@
+Knowledge leaf: National & global shoplifting trends
+Taxonomy path: retail/shoplifting_industry/industry_trends_market_dynamics/national_global_shoplifting_trends
+
+Primary author:
+- vaidika00, 2025
+
+Purpose:
+This knowledge leaf provides high-level explanations and synthetic,
+scenario-based examples of national and global shoplifting trends. It
+covers how shoplifting is measured over time, how trends differ across
+countries and regions, and how analysts should interpret reported
+changes in incident levels.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The examples, numbers, and
+scenarios are illustrative and synthetic; they do not represent any
+actual company’s internal data or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry reports and articles on national and
+  international shoplifting and retail theft trends.
+- Research and policy papers discussing crime statistics, reporting
+  practices, and the challenges of comparing theft data across
+  countries and over time.
+- Educational explainers on retail shrink, shoplifting measurement,
+  and organized retail crime.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by ideastresm and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under ideastresm’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+- vaidika00
