@@ -1,0 +1,114 @@
+version: 1
+created_by: vaidika00
+seed_examples:
+  - question: >
+      How does digital transformation in retail, including e-commerce
+      and omnichannel services, change the way shrink and shoplifting
+      risks appear in a business?
+    answer: >
+      Digital transformation shifts some shrink and theft risk away
+      from traditional sales-floor concealment toward new points in
+      the value chain. E-commerce introduces risks in order picking,
+      packing, and last-mile delivery, including mispicks, lost
+      parcels, and fraudulent non-delivery claims. Omnichannel
+      services such as buy-online-pickup-in-store (BOPIS) create
+      staging areas where goods may be held temporarily with less
+      visibility. Self-checkout and mobile payment change how
+      customers interact with staff and systems, increasing the
+      importance of controls around scanning, weight checks, and
+      exception monitoring. Overall, digital channels add complexity
+      and additional opportunities for loss if processes and
+      technology are not designed with shrink in mind.
+
+  - question: >
+      Describe two specific shrink risks associated with
+      buy-online-pickup-in-store (BOPIS) and how a retailer might
+      mitigate them.
+    answer: >
+      One risk is that items staged for pickup are stored in an area
+      with limited access control or monitoring, making it easier for
+      unauthorized individuals to remove them, or for errors to occur
+      when orders are assembled. Another risk is that staff may
+      release orders without properly verifying customer identity or
+      order details, leading to fraud or mistaken handovers. To
+      mitigate these risks, retailers can secure BOPIS staging areas,
+      restrict access to authorized staff, and use clear labeling and
+      logging for each order. They can also implement standardized
+      pickup procedures that require ID or digital confirmation and
+      track handover events in the system so discrepancies can be
+      investigated.
+
+  - question: >
+      A retailer significantly expands self-checkout lanes in its
+      stores. Explain how this change can alter shrink patterns and
+      what controls are needed to manage the new risks.
+    answer: >
+      Expanding self-checkout reduces direct interaction between
+      cashiers and customers, which can increase opportunities for
+      both accidental and deliberate non-scanning of items, barcode
+      switching, and basket or trolley push-outs. Shrink may become
+      more concentrated around checkout instead of on the sales floor.
+      To manage these risks, retailers can use a combination of
+      measures: camera-based monitoring and analytics focused on
+      self-checkout zones, random interventions by staff, prompts and
+      weight checks to detect anomalies, and clear signage that
+      signals monitoring and consequences. They should also review
+      incident data regularly to adjust staffing and technology
+      settings at self-checkout based on observed patterns.
+
+  - question: >
+      How can returns and reverse logistics in an omnichannel
+      environment contribute to shrink, and what practices help limit
+      these losses?
+    answer: >
+      In an omnichannel environment, returns may come through multiple
+      channels—stores, parcel carriers, and lockers—which increases
+      the complexity of inspecting items and updating inventory
+      accurately. Shrink can arise when returned goods are refunded
+      but not received, misclassified, or mishandled, or when fraudsters
+      return different items than they purchased. To limit these
+      losses, retailers can standardize return inspection procedures,
+      use clear condition codes, and ensure that systems update
+      inventory and financial records consistently. Risk-based
+      controls, such as closer scrutiny of high-value returns or
+      accounts with unusual patterns, also help reduce return-related
+      shrink without making the experience unnecessarily difficult for
+      genuine customers.
+
+  - question: >
+      A retailer offers same-day delivery from stores for online
+      orders. What additional shrink risks does this create compared
+      with a traditional store-only model?
+    answer: >
+      Same-day delivery from stores requires staff to pick items from
+      shelves and hand them to couriers or internal drivers, creating
+      extra touchpoints where items can be miscounted, misplaced, or
+      stolen. Inventory records may become less accurate if picking
+      processes are not tightly integrated with point-of-sale and
+      stock systems. There is also risk that deliveries are lost or
+      claimed as undelivered when they have been dropped off. Compared
+      with a store-only model, this increases dependency on accurate
+      picking, secure handover processes, and reliable proof of
+      delivery. Retailers can mitigate these risks by using digital
+      picking lists, scanning items at handoff, and capturing delivery
+      confirmations, while monitoring exception patterns to detect
+      fraud.
+
+  - question: >
+      How should a loss-prevention team adapt its metrics and KPIs to
+      capture shrink risks that arise from digital and omnichannel
+      operations?
+    answer: >
+      Traditional shrink metrics focused only on store-level inventory
+      differences and incident counts are not enough in a digital and
+      omnichannel context. Loss-prevention teams should add KPIs that
+      track losses related to online orders, BOPIS, self-checkout, and
+      delivery, such as fulfilment error rates, return discrepancies,
+      and non-delivery claims. They may also segment shrink by channel,
+      distinguishing between store-only and omnichannel-related losses.
+      Monitoring these metrics over time and by region or format helps
+      identify where new digital processes are introducing risk, so
+      teams can target process improvements, technology investments,
+      and training. The goal is to make sure that as sales migrate
+      across channels, shrink controls and performance measurement
+      migrate with them.
