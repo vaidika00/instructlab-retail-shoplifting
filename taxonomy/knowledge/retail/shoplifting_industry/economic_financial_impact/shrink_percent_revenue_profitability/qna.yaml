@@ -1,0 +1,105 @@
+version: 1
+created_by: vaidika00
+seed_examples:
+  - question: >
+      What does it mean to express retail shrink as a percentage of
+      revenue, and how is this percentage calculated?
+    answer: >
+      Expressing retail shrink as a percentage of revenue shows how
+      much of a retailer’s sales value is effectively lost through
+      theft, damage, errors, and other causes. To calculate it, you
+      estimate the total value of shrink over a period, usually based
+      on inventory counts and book records, then divide that amount by
+      net sales for the same period and multiply by one hundred. For
+      example, if shrink is 4 million and net sales are 250 million,
+      the shrink percentage is (4,000,000 ÷ 250,000,000) × 100,
+      or 1.6%. This metric helps compare loss performance over time
+      and across business units regardless of their absolute size.
+
+  - question: >
+      A retailer has annual net sales of 500 million, a reported gross
+      margin of 30%, and shrink of 1.8% of sales. Calculate the value
+      of shrink and explain how it affects gross profit and effective
+      gross margin.
+    answer: >
+      With 500 million in net sales and 1.8% shrink, the value of
+      shrink is 500,000,000 × 0.018, which equals 9 million. If the
+      reported gross margin is 30%, gross profit before shrink
+      adjustments would be 500,000,000 × 0.30, or 150 million. Shrink
+      is effectively an additional cost of goods that produces no
+      revenue, so when you account for the 9 million loss, gross
+      profit falls to 141 million. The effective gross margin becomes
+      141,000,000 ÷ 500,000,000, or 28.2%. This 1.8 percentage point
+      reduction directly limits how much the retailer can spend on
+      labor, rent, marketing, and technology, and it lowers net
+      earnings unless offset elsewhere.
+
+  - question: >
+      Compare the impact on profit of reducing shrink from 2.0% to
+      1.5% of sales for a chain with 800 million in annual revenue.
+      Assume gross margin and other costs stay the same.
+    answer: >
+      At 800 million in sales and 2.0% shrink, the retailer loses
+      800,000,000 × 0.02, or 16 million. At 1.5% shrink, the loss
+      would be 800,000,000 × 0.015, or 12 million. Reducing shrink
+      from 2.0% to 1.5% therefore lowers the annual loss by 4 million.
+      Because shrink is a direct hit to cost of goods, most of that
+      4 million flows straight through to gross profit and, after
+      fixed costs, to net profit. In many retail businesses, a
+      4 million improvement in profit can be equivalent to achieving a
+      large amount of additional sales growth, so shrink reduction is
+      often one of the most efficient ways to improve profitability.
+
+  - question: >
+      A discount retailer with a 22% gross margin operates at 1.2%
+      shrink on 300 million in sales. If shrink rises to 1.9% while
+      sales and gross margin stay the same, quantify the change in
+      shrink value and explain the impact on effective gross margin.
+    answer: >
+      At 300 million in sales and 1.2% shrink, the loss is
+      300,000,000 × 0.012, or 3.6 million. At 1.9% shrink, the loss
+      is 300,000,000 × 0.019, or 5.7 million. The increase in shrink
+      value is 5.7 million minus 3.6 million, or 2.1 million. Before
+      shrink, a 22% gross margin implies gross profit of
+      300,000,000 × 0.22, or 66 million. At 1.2% shrink, the effective
+      gross profit after shrink is 62.4 million, while at 1.9% shrink
+      it falls to 60.3 million. The effective gross margin drops from
+      20.8% to 20.1%. For a low-margin discounter, that reduction
+      significantly tightens the room to pay operating expenses and
+      still deliver acceptable earnings.
+
+  - question: >
+      Why is focusing only on sales growth without monitoring shrink
+      as a percentage of revenue risky for a retailer’s profitability?
+    answer: >
+      Focusing only on sales growth can hide the fact that shrink is
+      consuming a growing share of revenue. If sales increase but
+      shrink percentage also rises, the absolute value of losses can
+      grow faster than profit, eroding the benefits of higher revenue.
+      For example, a retailer might celebrate a 10% sales increase
+      while missing that shrink has climbed from 1.0% to 1.6%,
+      converting much of that additional revenue into unproductive
+      cost. Without tracking shrink as a percentage of revenue and its
+      effect on gross margin, management may overestimate the success
+      of commercial initiatives and underinvest in loss prevention,
+      leading to disappointing earnings despite strong top-line
+      performance.
+
+  - question: >
+      How can a CFO use shrink-as-a-percentage-of-revenue metrics to
+      prioritize which regions or formats to target for loss-prevention
+      investment?
+    answer: >
+      A CFO can compare shrink percentages and absolute loss values
+      across regions and formats to see where losses are highest
+      relative to sales and where improvements would yield the largest
+      financial gains. Regions with shrink well above internal targets
+      or peer benchmarks, especially in higher-margin categories, are
+      prime candidates for additional investment in controls and
+      technology. By estimating how much profit would be recovered if
+      those regions moved closer to best-performing units, the CFO can
+      build business cases for projects such as enhanced analytics,
+      EAS, or staff training. This approach ensures that
+      loss-prevention spending is directed where each percentage point
+      reduction in shrink has the greatest impact on overall
+      profitability.
