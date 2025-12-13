@@ -1,0 +1,43 @@
+Knowledge leaf: Urban vs rural shrink patterns
+Taxonomy path: retail/shoplifting_industry/economic_financial_impact/urban_rural_shrink_patterns
+
+Primary author:
+- vaidika00, 2025
+
+Purpose:
+This knowledge leaf explores typical differences between urban and rural
+retail shrink patterns and the factors that drive those differences. It
+uses synthetic examples to illustrate how location, store format,
+community characteristics, and crime conditions affect shrink levels
+and how retailers can tailor loss-prevention strategies by geography.
+
+Origin of content:
+All questions and answers in the associated qna.yaml file are original
+work created by the author for this project. The locations, figures, and
+store situations are illustrative and synthetic; they do not represent
+any actual company’s internal data or confidential information.
+
+Background sources consulted (paraphrased only):
+- Publicly available industry reports and articles discussing high-shrink
+  stores, geographic risk factors, and differences between urban and
+  rural locations.
+- Research and practitioner materials on retail crime, community
+  characteristics, and environmental influences on theft.
+- Educational explainers on how retailers segment stores by risk profile
+  and geography for targeted loss-prevention efforts.
+
+No verbatim text, tables, or figures from any external source have been
+copied or closely reproduced. All material has been paraphrased,
+generalized, and combined with original analysis to respect copyright
+and intellectual property requirements.
+
+Licensing and internal use:
+This knowledge contribution is owned by idea and may be used
+for internal machine-learning research, model training, and evaluation,
+and for collaboration with authorized partners. Any external publication
+or redistribution of this content or derivative models requires prior
+approval under idea’s governance and compliance processes.
+
+Contact:
+For questions about this leaf or its sources, contact:
+- vaidika00
