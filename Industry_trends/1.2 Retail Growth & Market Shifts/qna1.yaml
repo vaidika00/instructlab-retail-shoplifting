@@ -1,0 +1,117 @@
+version: 1
+created_by: vaidika00
+1.2 Retail Growth & Market Shifts --> Segment growth (grocery, apparel, electronics, etc.)
+seed_examples:
+  - question: >
+      Explain how growth in different retail segments such as grocery,
+      apparel, and electronics can change a company’s overall exposure
+      to shrink and shoplifting.
+    answer: >
+      As a company grows in different segments, the mix of products,
+      margins, and store formats changes, and so does its exposure to
+      shrink. Grocery expansion tends to increase volume in everyday
+      consumables, which are often targeted by both opportunistic
+      thieves and organized groups because they are easy to conceal and
+      resell. Growth in apparel adds more items that are lightweight,
+      concealable, and fashion-driven, making them attractive for
+      resale and personal use. Electronics growth increases exposure to
+      fewer but very high-value items where each loss has a large
+      financial impact. When segment mix shifts, even if a company’s
+      average shrink percentage looks stable, the absolute risk and the
+      distribution of losses by category can change significantly,
+      requiring segment-specific prevention strategies.
+
+  - question: >
+      A retailer currently derives 60% of sales from grocery, 25% from
+      apparel, and 15% from electronics. Over the next three years, it
+      plans to grow electronics to 30% of sales. Describe how this
+      shift might affect shrink risk and what the loss-prevention
+      team should plan for.
+    answer: >
+      Increasing electronics from 15% to 30% of sales will raise the
+      share of revenue coming from high-value, often portable items
+      that can be resold quickly. Even if electronics shrink
+      percentages are relatively low compared with other categories,
+      each incident can be costly. The loss-prevention team should
+      anticipate more attempts to target items such as smartphones,
+      tablets, headphones, and gaming devices. They may need to invest
+      in stronger physical controls, such as locked displays or
+      tethering, more focused camera coverage, and tighter inventory
+      procedures in back rooms. They should also prepare for the risk
+      that organized groups could concentrate on electronics if they
+      see the assortment and protection measures as favorable.
+
+  - question: >
+      Compare typical shrink characteristics in grocery and apparel
+      segments and explain why a portfolio with more apparel stores
+      might show different shrink patterns than one dominated by
+      grocery.
+    answer: >
+      Grocery shrink is often driven by a mix of theft, damage, and
+      expiry, with significant losses in fresh food and high-turn
+      branded consumables. Items are usually lower in unit value but
+      high in volume, so many small incidents accumulate. Apparel
+      shrink is more concentrated in theft, as garments are relatively
+      easy to conceal and resell, and sizing or style issues can lead
+      to more handling and returns. A portfolio with more apparel
+      stores may show higher shrink percentages in fewer, more
+      theft-prone categories, with less impact from spoilage. It may
+      also see more activity in fitting rooms and display areas as
+      theft points. By contrast, a grocery-dominated portfolio may
+      show broader-based shrink across many everyday categories, with
+      more interplay between operational waste and theft.
+
+  - question: >
+      A value-focused grocery chain is considering adding a small
+      electronics section with accessories and low-ticket items.
+      Identify two shrink-related questions the risk team should ask
+      before approving this change.
+    answer: >
+      First, the risk team should ask how the new electronics section
+      will be positioned and supervised: for example, whether it will
+      be near staffed areas or in a low-visibility zone where items
+      could be easily removed. Second, they should ask how controls
+      such as product packaging, EAS tags, and camera coverage will
+      handle items that are small, high-margin, and attractive to
+      thieves. They should also consider whether staff have the
+      training to recognize and respond to electronics-related theft
+      patterns, and whether adding this section could attract new
+      types of offenders to stores that previously had little
+      electronics exposure.
+
+  - question: >
+      How can a retailer use segment-level shrink data to decide where
+      to focus its loss-prevention investments as different segments
+      grow at different rates?
+    answer: >
+      A retailer can track shrink percentage and absolute loss by
+      segment and compare these figures to segment growth and margin.
+      Segments with fast sales growth, high margins, and rising shrink
+      may offer the best return on targeted loss-prevention
+      investments, because each percentage point reduction unlocks
+      more profit. For example, if electronics sales are growing
+      quickly and shrink is rising faster than in other segments, it
+      makes sense to prioritize stronger controls there. Conversely,
+      if a segment is mature, shrinking in sales, and has low shrink,
+      it may justify only maintenance-level investment. Segment-level
+      analysis helps avoid spreading resources thinly and ensures that
+      controls follow where both revenue and risk are increasing.
+
+  - question: >
+      A multi-format retailer sees that its discount apparel format is
+      growing faster than its premium apparel format. What implications
+      might this have for shrink management?
+    answer: >
+      Discount apparel formats often involve higher volumes, sharper
+      pricing, and more self-service, which can increase pressure on
+      staff and create more opportunities for theft if controls are
+      not adapted. As the discount format grows, more of the
+      company’s apparel inventory will be sold in environments where
+      items are densely displayed and customer traffic is higher,
+      making concealment easier. Loss-prevention may need to adjust
+      merchandising, increase floor presence in risk areas, and use
+      selective protection on specific brands or categories that are
+      frequently targeted. They may also need different training
+      content for staff in discount vs. premium stores, since the
+      customer base, basket composition, and theft patterns can differ
+      between the two.
